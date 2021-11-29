@@ -1,0 +1,25 @@
+.okvir {
+  margin-top: 1rem;
+}
+
+.okvir h1 {
+  background: #ffb7c5;
+  color: #fff;
+  padding: 1rem;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  margin-bottom: 0 !important;
+}
+
+.okvir2 {
+  padding: 1rem;
+  border-right: 2px solid #ffb7c5;
+  border-left: 2px solid #ffb7c5;
+  border-bottom: 2px solid #ffb7c5;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+label {
+  font-weight: 700;
+}

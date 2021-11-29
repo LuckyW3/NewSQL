@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  font-family: "Lato";
+    font-size: 1.2rem;
+}
+
+h1 {
+  font-family: Audiowide;
+  font-size: 3rem;
+  color: #ffb7c5;
+}
+
+ul {
+  height: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 80%;
+}
+
+ul li {
+  list-style: none;
+  height: 20%;
+  border: #ffb7c5 solid 2px;
+  font-size: 3rem;
+  font-family: Lato;
+  color: #ffb7c5;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 5rem;
+}
